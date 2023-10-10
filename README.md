@@ -1,4 +1,8 @@
-# Miguel Julio
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel+Julio;I'm+18+years+old;I'm+from+Brasil;I'm+a+Data+Scientist;Be+welcome!+:%29)](https://git.io/typing-svg)
+
+
 ## Bem vindo ao meu perfil github 👋
 
 - 🔭 Atualmente estou aprendendo ciência de dados
