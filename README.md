@@ -2,13 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel+Julio;I'm+18+years+old;I'm+from+Brasil;I'm+a+Data+Scientist;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-
-## Bem vindo ao meu perfil github 👋
-
-- 🔭 Atualmente estou aprendendo ciência de dados
-- 👯 Estou procurando colaborar em projetos de DS/ML/DL
-- 🤔 Estou procurando ajuda com ML
-- ⚡ Curiosidade: comecei a programar com 16 anos
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=009c9c&line=00FFFF&point=7FFFD4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ferramentas e tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
