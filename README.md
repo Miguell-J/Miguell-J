@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
+<p align="center">
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel+Julio;I'm+18+years+old;I'm+from+Brasil;I'm+a+Data+Scientist;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=009c9c&line=00FFFF&point=7FFFD4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
