@@ -23,11 +23,6 @@ gygciy
   <img src="https://github-profile-trophy.vercel.app/?username=Miguell-J&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true&count_private=true&hide_border=true&title_color=cccccc&icon_color=cccccc&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Julio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguell-J&layout=compact&hide_border=true&title_color=cccccc&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 <div align="center"> 
 <a href="https://instagram.com/miguell.jj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:julioaraujo.guel@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -49,5 +44,3 @@ gygciy
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Miguell-J}/count.svg" /></p> 
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer"/>
