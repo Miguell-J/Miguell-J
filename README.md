@@ -9,7 +9,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=cccccc&line=f5f5f5&point=fff5ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<img src="foto miguel.jpeg" width="550" height="550"/>
+<img src="foto miguel.jpeg" width="400" height="400"/>
 </div>
 
 <p align="center">
