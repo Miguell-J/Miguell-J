@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=666666&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=header"/>
 
 <p align="center">
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666666&size=35&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Python)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=666666&line=f5f5f5&point=fff5ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=cccccc&line=f5f5f5&point=fff5ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <img src="foto miguel.jpeg" width="550" height="550"/>
@@ -17,8 +17,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true&count_private=true&hide_border=true&title_color=666666&icon_color=666666&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Julio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguell-J&layout=compact&hide_border=true&title_color=666666&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true&count_private=true&hide_border=true&title_color=cccccc&icon_color=cccccc&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Julio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguell-J&layout=compact&hide_border=true&title_color=cccccc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -43,4 +43,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=666666&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer"/>
