@@ -9,7 +9,7 @@ def my_profile():
   hobbies = "proggraming", "music", "drawing"
   role = "ML developer"
   skiils = ["python", "ML", "DL", "Data Analysis"]
-  favourite_language = "python"
+  return name, age, hobbies, role, skills
 
 my_profile()
 ```
