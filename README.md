@@ -6,7 +6,7 @@
 def my_profile():
   name = "Miguel Julio"
   age = 18
-  hobbies = "proggraming", "music", "drawing"
+  hobbies = ["proggraming", "music", "drawing"]
   role = "ML developer"
   skiils = ["python", "ML", "DL", "Data Analysis"]
   return name, age, hobbies, role, skills
