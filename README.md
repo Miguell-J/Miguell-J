@@ -1,10 +1,13 @@
 ![Header](./github-header-image.png)
 
 <img src="foto miguel.jpeg" width="400" height="400" align="left"/>
+jb\sicbvsivbsidv
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true&count_private=true&hide_border=true&title_color=cccccc&icon_color=cccccc&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Julio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguell-J&layout=compact&hide_border=true&title_color=cccccc&text_color=c9d1d9&bg_color=0d1117" />
+![N3v1 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Miguell-J)
 
+<!--Tropy-->
+
+![N3v1 github-trophies](https://stats.dooboo.io/api/github-trophies?login=Miguell-J)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=cccccc&line=f5f5f5&point=fff5ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
