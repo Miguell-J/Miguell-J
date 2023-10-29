@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<img src="foto miguel.jpeg" width="400" height="400" align="left"/>
+<img src="foto miguel.jpeg" width="400" height="400" align="left" style="border-radius: 30px"/>
 
 ```python
 def my_profile():
