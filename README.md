@@ -1,4 +1,4 @@
-![Header](./github-header-img.png)
+![Header](./github-header-image.png)
 
 <p align="center">
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
