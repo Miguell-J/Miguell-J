@@ -1,16 +1,11 @@
 ![Header](./github-header-image.png)
 
-<p align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Python)](https://git.io/typing-svg)
+<div align="left">
+<img src="foto miguel.jpeg" width="400" height="400"/>
+   
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=cccccc&line=f5f5f5&point=fff5ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-<img src="foto miguel.jpeg" width="400" height="400"/>
-</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Miguell-J&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
