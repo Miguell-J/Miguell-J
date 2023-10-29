@@ -7,10 +7,11 @@ def my_profile():
   name = "Miguel Julio"
   age = 18
   hobbies = "proggraming", "music", "drawing"
-  system = "Windows"
-  goals = "Be a data Scientist"
-  favourite_pragramming_language = "python
-gygciy
+  role = "ML developer"
+  skiils = ["python", "ML", "DL", "Data Analysis"]
+  favourite_language = "python"
+
+my_profile()
 ```
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true&count_private=true&hide_border=true&title_color=cccccc&icon_color=cccccc&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Julio github stats" />
 
