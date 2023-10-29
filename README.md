@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image(1).png)
 
 <img src="foto miguel.jpeg" width="380" height="380" align="left"/>
 
