@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
-<div align="center">
-<img src="foto miguel.jpeg"  width="600" height="600"/>
-</div>
-
 <p align="center">
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
 </p>
