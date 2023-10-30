@@ -1,4 +1,5 @@
-![Header](./github-header-image(1).png)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000">
+<br><br>
 
 <img src="foto miguel.jpeg" width="380" height="380" align="left"/>
 
