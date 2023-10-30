@@ -1,7 +1,8 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="333"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="333"> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="333">
+
 ```python 
 def my_profile():
   name = "Miguel Julio"
@@ -13,20 +14,19 @@ def my_profile():
 
 my_profile()
 ```
+
 ![Miguell-J github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Miguell-J)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=cccccc&line=f5f5f5&point=fff5ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="500" height="500" src="https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true&count_private=true&hide_border=true&title_color=cccccc&icon_color=cccccc&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Julio github stats" />
-
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 <img src="https://github-profile-trophy.vercel.app/?username=Miguell-J&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="left" />
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;
   
-**Tools and technologies** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15">
+**Tools and technologies** 
 
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" width="70" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="40" height="40"/>
 </div>
