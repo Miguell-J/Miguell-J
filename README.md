@@ -14,6 +14,7 @@ def my_profile():
 
 my_profile()
 ```
+<img src="linha.gif" width="1000"/>
 
 ![Miguell-J github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Miguell-J)
 
