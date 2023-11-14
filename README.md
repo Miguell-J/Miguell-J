@@ -2,18 +2,26 @@
 <br><br>
 
 ```python 
-def my_profile():
-  name = "Miguel Julio"
-  age = 18
-  hobbies = ["proggraming", "music", "drawing"]
-  role = "ML developer"
-  skiils = ["python", "ML", "DL", "Data Science"]
-  return name, age, hobbies, role, skills
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-my_profile()
+
+class CientistaDeDados:
+
+    def __init__(self):
+        self.nome = "Miguel Julio"
+        self.area = "Ciência de dados"
+        self.linguas_faladas = ["pt-BR", "en", "es"]
+        self.idade = 18
+        self.hobbies = ["Programação", "Música", "Desenho", "Futebol"]
+
+    def Ola(self):
+        print("Bem vindo(a) ao meu perfil, espero que ache algo de interessante :).")
+
+
+me = CientistaDeDados()
+me.Ola()
 ```
-
-![Miguell-J github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Miguell-J)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
