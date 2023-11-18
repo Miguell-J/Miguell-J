@@ -2,10 +2,6 @@
 <br><br>
 
 ```python 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class CientistaDeDados:
 
     def __init__(self):
