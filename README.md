@@ -1,37 +1,52 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
 
-```python 
-class CientistaDeDados:
-
-    def __init__(self):
-        self.nome = "Miguel Julio"
-        self.area = "Ciência de dados"
-        self.linguas_faladas = ["pt-BR", "en", "es"]
-        self.idade = 18
-        self.hobbies = ["Programação", "Música", "Desenho", "Futebol"]
-
-    def Ola(self):
-        print("Bem vindo(a) ao meu perfil, espero que ache algo de interessante :).")
-
-
-me = CientistaDeDados()
-me.Ola()
-```
-
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguell-J&bg_color=111111&color=cccccc&line=f5f5f5&point=fff5ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mim:
+- 🏦 Eu sou um estudante de Ciência da Computação na IBMR
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 No meu dia-a-dia eu uso a linguagem de programação python
+- 📖 Atualmente tenho estudado sobre Ciência de dados, Machine Learning e Deep Learning
+- ⚡ Fato interessante sobre mim: Eu comecei a programar com 16 anos
+- 🧑‍💻 Tecnologias que eu trabalho :
 
-<img src="https://github-profile-trophy.vercel.app/?username=Miguell-J&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="left" />
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="java"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github"/>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="110" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="110" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="110" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png?20200317115153" alt="mysql" width="60" height="60"/>
+      <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="mongodb" width="90" height="60"/>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;
-  
-**Tools and technologies** 
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Minhas estatísticas do github:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=miguell-j&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguell-j&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguell-J&theme=dark)](https://git.io/streak-stats)
 
-  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" width="70" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="40" height="40"/>
-</div>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 87.96 % as on ⏰ 17-Nov-2023
+
+---
+
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
+- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
+- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
+- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
+- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center"> 
 <a href="https://instagram.com/miguell.jj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
