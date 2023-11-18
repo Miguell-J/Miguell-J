@@ -30,12 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguell-j&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguell-J&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 87.96 % as on ⏰ 17-Nov-2023
-
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Meus posts no medium:
