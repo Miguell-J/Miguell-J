@@ -39,13 +39,10 @@
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Meus posts no medium:
 <!-- BLOG-POST-LIST:START -->
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
+- [Machine Learning e Saúde: Transformando Dados em Diagnósticos Precisos](https://medium.com/@julioaraujo.guel/machine-learning-e-sa%C3%BAde-transformando-dados-em-diagn%C3%B3sticos-precisos-187927ec80e2?source=user_profile---------0----------------------------)
+- [Desvendando os Mistérios das Redes Neurais: Uma Jornada pelo Cérebro da Inteligência Artificial](https://medium.com/@julioaraujo.guel/desvendando-os-mist%C3%A9rios-das-redes-neurais-uma-jornada-pelo-c%C3%A9rebro-da-intelig%C3%AAncia-artificial-4c16c8b8805b?source=user_profile---------1----------------------------)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center"> 
