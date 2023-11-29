@@ -1,15 +1,17 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="1000">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mim:
 - 🏦 Eu sou um estudante de Ciência da Computação na IBMR
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 No meu dia-a-dia eu uso a linguagem de programação python
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="26">
 - 📖 Atualmente tenho estudado sobre Ciência de dados, Machine Learning e Deep Learning
 - ⚡ Fato interessante sobre mim: Eu comecei a programar com 16 anos
-- 🧑‍💻 Tecnologias que eu trabalho :
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="40" /> Tecnologias que eu trabalho:
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="java"/> 
@@ -45,7 +47,9 @@
  </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Miguell-J}/count.svg" /></p> 
 <br>
 </div>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="1000"/>
