@@ -38,6 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning e Saúde: Transformando Dados em Diagnósticos Precisos](https://medium.com/@julioaraujo.guel/machine-learning-e-sa%C3%BAde-transformando-dados-em-diagn%C3%B3sticos-precisos-187927ec80e2?source=user_profile---------0----------------------------)
 - [Desvendando os Mistérios das Redes Neurais: Uma Jornada pelo Cérebro da Inteligência Artificial](https://medium.com/@julioaraujo.guel/desvendando-os-mist%C3%A9rios-das-redes-neurais-uma-jornada-pelo-c%C3%A9rebro-da-intelig%C3%AAncia-artificial-4c16c8b8805b?source=user_profile---------1----------------------------)
+- [Navegando pelos Labirintos da Computação: Uma Odisséia com o Algoritmo A*](https://medium.com/@julioaraujo.guel/navegando-pelos-labirintos-da-computa%C3%A7%C3%A3o-uma-odiss%C3%A9ia-com-o-algoritmo-a-5f73f6e16c40?source=user_profile---------0----------------------------)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center"> 
