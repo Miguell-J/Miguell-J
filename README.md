@@ -22,7 +22,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="110" height="60"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="60" height="60"/>
       <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="90" height="60"/>
-</p>
+      <img src="https://github.com/user-attachments/assets/424daaf8-b08a-4b80-890b-98c6e7ab12b9" alt="pythorch" width="60" height="60"/>
+      <img src="https://github.com/user-attachments/assets/86acdb2e-0a9f-442e-ad77-852bbbf2c0b7" alt="java" width="90" height="90"/>
+
 
 ---
 
