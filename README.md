@@ -30,6 +30,8 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My articles in medium:
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Computing](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf)
+- [Backpropagation](https://medium.com/@julioaraujo.guel/backpropagation-afa18b620ac2)
 - [Gradient Decent](https://medium.com/@julioaraujo.guel/machine-learning-e-sa%C3%BAde-transformando-dados-em-diagn%C3%B3sticos-precisos-187927ec80e2?source=user_profile---------0----------------------------)
 - [The Hopfield Network](https://medium.com/@julioaraujo.guel/desvendando-os-mist%C3%A9rios-das-redes-neurais-uma-jornada-pelo-c%C3%A9rebro-da-intelig%C3%AAncia-artificial-4c16c8b8805b?source=user_profile---------1----------------------------)
 
