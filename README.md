@@ -1,34 +1,31 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="1000">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me:
-- 🏦 I'm a computer scientist student at IBMR
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 My favorite areas are: Artificial intelligence, robotics, mathematics, bioinformatics, computational physics, and quantum computing
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="26">
-- 📖 I want to be a research scientist someday
-- ⚡ Fun fact: I'm working on a project for a NASA competition
+## Hey, I’m Miguel Julio!
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="40" /> My Stacks:
+I’m a Computer Science student passionate about Artificial Intelligence, Quantum Computing, Theoretical Physics, and Ethical Hacking. My goal is to become a renowned scientist and researcher, pushing the boundaries of technology and science. I also have a strong interest in Competitive Programming, constantly improving my problem-solving skills. Besides that, I enjoy playing guitar, bass, and violin, writing articles on AI, mathematics, and robotics, and exploring the worlds of Agatha Christie and Stephen King. I’m also a rock music lover, a sports enthusiast, and a big fan of suspense films.
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="java"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github"/>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv"/>
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter"/> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="110" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="110" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="110" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="60" height="60"/>
-      <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="90" height="60"/>
-      <img src="https://github.com/user-attachments/assets/424daaf8-b08a-4b80-890b-98c6e7ab12b9" alt="pythorch" width="60" height="60"/>
-      <img src="https://github.com/user-attachments/assets/86acdb2e-0a9f-442e-ad77-852bbbf2c0b7" alt="java" width="90" height="90"/>
+🔭 I’m actually working in a article about a mathematical framwork for a new kind of artificial neural network.
 
+💬 I’m reading "Quantum Mechanics" by Susskind, and "Linear Algebra" by Shilov.
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My articles in medium:
+## 🚀 My Skills
+
+<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><code>
+<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><code>
+<code><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /><code>
+<code><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true)
+---
+
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My articles in <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />:
 <!-- BLOG-POST-LIST:START -->
 - [Quantum Computing](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf)
 - [Backpropagation](https://medium.com/@julioaraujo.guel/backpropagation-afa18b620ac2)
