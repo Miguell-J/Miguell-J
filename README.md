@@ -25,7 +25,7 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true)
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My articles in <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My articles in Medium:
 <!-- BLOG-POST-LIST:START -->
 - [Quantum Computing](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf)
 - [Backpropagation](https://medium.com/@julioaraujo.guel/backpropagation-afa18b620ac2)
