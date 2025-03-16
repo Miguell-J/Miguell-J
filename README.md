@@ -1,4 +1,3 @@
-
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="1000">
 
 ## Hey, I’m Miguel Julio!
@@ -13,10 +12,10 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 
 ## 🚀 My Skills
 
-<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><code>
-<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><code>
-<code><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /><code>
-<code><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><code>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
 
 ---
 
@@ -25,12 +24,34 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true)
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My articles in Medium:
-<!-- BLOG-POST-LIST:START -->
-- [Quantum Computing](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf)
-- [Backpropagation](https://medium.com/@julioaraujo.guel/backpropagation-afa18b620ac2)
-- [Gradient Decent](https://medium.com/@julioaraujo.guel/machine-learning-e-sa%C3%BAde-transformando-dados-em-diagn%C3%B3sticos-precisos-187927ec80e2?source=user_profile---------0----------------------------)
-- [The Hopfield Network](https://medium.com/@julioaraujo.guel/desvendando-os-mist%C3%A9rios-das-redes-neurais-uma-jornada-pelo-c%C3%A9rebro-da-intelig%C3%AAncia-artificial-4c16c8b8805b?source=user_profile---------1----------------------------)
+## 📖 My articles in Medium:
+
+Here are some of my articles on Medium where I share my thoughts and learnings on Artificial Intelligence, Quantum Physics, Mathematics, and more. Feel free to explore, comment, and share!
+
+<img src="https://github.com/user-attachments/assets/6e65882f-b0b3-43c9-9f22-bb41ba995043" width="500"/>
+
+**[Quantum Computing]([https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf))** 
+([Link](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf))
+
+*A deep dive into the fundamental concepts of quantum computing and how it could revolutionize technology in the future.*
+
+---
+  
+<img src="https://github.com/user-attachments/assets/e8a2186b-bbfc-48b1-8b81-01bc1a7b430b" width="500"/>
+
+**[Backpropagation]([[https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)]([https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)))** 
+([Link](https://medium.com/latinxinai/backpropagation-afa18b620ac2))
+
+*A detailed explanation of backpropagation, a core concept in training neural networks, and how it optimizes the weights to minimize error in predictions.*
+
+---
+
+<img src="https://github.com/user-attachments/assets/8e33a208-9f29-40f4-94b2-9aec78a7412c" width="500"/>
+
+**[Gradient Descent]([[https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)]([https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)))** 
+([Link](https://medium.com/latinxinai/gradient-decent-ab782c96daeb)))
+
+*An exploration of gradient descent, one of the most widely used optimization algorithms in machine learning, and its impact on improving predictive models in healthcare.*
 
 ---
 
