@@ -12,10 +12,7 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 
 ## 🚀 My Skills
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,blender,c,discord,cpp,docker,github,gmail,kali,linkedin,linux,mysql,neovim,opencv,py,pytorch,sklearn,tensorflow,vim,visualstudio,vscode,&perline=11)](https://skillicons.dev)
 
 ---
 
