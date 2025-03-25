@@ -19,39 +19,15 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguell-J&show_icons=true)
----
-
 ## 📖 My articles in Medium:
 
-Here are some of my articles on Medium where I share my thoughts and learnings on Artificial Intelligence, Quantum Physics, Mathematics, and more. Feel free to explore, comment, and share!
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0" alt="Recent Article 0">
 
-<img src="https://github.com/user-attachments/assets/6e65882f-b0b3-43c9-9f22-bb41ba995043" width="500"/>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/3" alt="Recent Article 3">
 
-**[Quantum Computing]([https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf))** 
-([Link](https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf))
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/4" alt="Recent Article 4">
 
-*A deep dive into the fundamental concepts of quantum computing and how it could revolutionize technology in the future.*
-
----
-  
-<img src="https://github.com/user-attachments/assets/e8a2186b-bbfc-48b1-8b81-01bc1a7b430b" width="500"/>
-
-**[Backpropagation]([[https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)]([https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)))** 
-([Link](https://medium.com/latinxinai/backpropagation-afa18b620ac2))
-
-*A detailed explanation of backpropagation, a core concept in training neural networks, and how it optimizes the weights to minimize error in predictions.*
-
----
-
-<img src="https://github.com/user-attachments/assets/8e33a208-9f29-40f4-94b2-9aec78a7412c" width="500"/>
-
-**[Gradient Descent]([[https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)]([https://medium.com/@julioaraujo.guel/quantum-computing-815cf27dfecf](https://medium.com/latinxinai/backpropagation-afa18b620ac2?source=your_stories_page--------------------------------------------)))** 
-([Link](https://medium.com/latinxinai/gradient-decent-ab782c96daeb)))
-
-*An exploration of gradient descent, one of the most widely used optimization algorithms in machine learning, and its impact on improving predictive models in healthcare.*
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/5" alt="Recent Article 5">
 
 ---
 
