@@ -20,11 +20,11 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/3" alt="Recent Article 1">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/4" alt="Recent Article 4">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/5" alt="Recent Article 5">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/5" alt="Recent Article 6">
 
 ---
 
