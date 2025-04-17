@@ -12,7 +12,7 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 
 ## 🚀 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,blender,c,discord,cpp,docker,github,gmail,kali,linkedin,linux,mysql,neovim,opencv,py,pytorch,sklearn,tensorflow,vim,visualstudio,vscode,&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,rust,bash,blender,c,discord,cpp,docker,go,github,gmail,kali,linkedin,linux,mysql,neovim,opencv,py,pytorch,sklearn,tensorflow,vim,visualstudio,vscode,&perline=8)](https://skillicons.dev)
 
 ---
 
