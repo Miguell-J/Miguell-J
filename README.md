@@ -2,6 +2,9 @@
 
 ## Hey, I’m Miguel Julio!
 
+![Crates.io](https://img.shields.io/crates/v/portsniper)
+![Downloads](https://img.shields.io/crates/d/portsniper)
+
 I’m a Computer Science student passionate about Artificial Intelligence, Quantum Computing, Theoretical Physics, and Ethical Hacking. My goal is to become a renowned scientist and researcher, pushing the boundaries of technology and science. I also have a strong interest in Competitive Programming, constantly improving my problem-solving skills. Besides that, I enjoy playing guitar, bass, and violin, writing articles on AI, mathematics, and robotics, and exploring the worlds of Agatha Christie and Stephen King. I’m also a rock music lover, a sports enthusiast, and a big fan of suspense films.
 
 🔭 I’m actually working in a article about a mathematical framwork for a new kind of artificial neural network.
