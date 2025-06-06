@@ -38,6 +38,7 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 <h2 align="left">📄 Academic Publishing</h2>
 
 <div align="left" style="border: 2px solid #007ACC; border-radius: 15px; padding: 20px; max-width: 700px; margin: auto;">
+<img src="https://github.com/Miguell-J/GENIA/raw/main/imgs/mermaid.png?text=🧠" alt="Imagem do Paper" width="280" style="border-radius: 20px; margin-bottom: 15px;" />
  
   <h3 style="margin-top: 0;">🧠 <em>GENIA</em></h3>
   <p><strong>Published in TechRxiv — 2025</strong></p>
