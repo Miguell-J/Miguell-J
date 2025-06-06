@@ -35,6 +35,20 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 
 ---
 
+<h2 align="left">📄 Academic Publishing</h2>
+
+<div align="left" style="border: 2px solid #007ACC; border-radius: 15px; padding: 20px; max-width: 700px; margin: auto;">
+ 
+  <h3 style="margin-top: 0;">🧠 <em>GENIA</em></h3>
+  <p><strong>Published in TechRxiv — 2025</strong></p>
+  <p>GENIA (Graph-based Emergent Narrative Intelligence Architecture) is a novel cognitive framework for synthetic cognitive agents. This architecture models cognition as an emergent process from five core components: Essence, Memory, Experience, World Model, and Self. GENIA is capable of constructing internal narratives, maintaining emotional coherence, and enabling social cognition through inter-agent memory exchange.</p>
+  <a href="https://www.techrxiv.org/doi/SEU-DOI-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Paper-TechRxiv-blue?style=for-the-badge&logo=bookstack" alt="Leia no TechRxiv">
+  </a>
+</div>
+
+---
+
 <div align="center"> 
 <a href = "mailto:julioaraujo.guel@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/miguel-julio-b029b3288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
