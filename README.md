@@ -43,8 +43,8 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
   <h3 style="margin-top: 0;">🧠 <em>GENIA</em></h3>
   <p><strong>Published in TechRxiv — 2025</strong></p>
   <p>GENIA (Graph-based Emergent Narrative Intelligence Architecture) is a novel cognitive framework for synthetic cognitive agents. This architecture models cognition as an emergent process from five core components: Essence, Memory, Experience, World Model, and Self. GENIA is capable of constructing internal narratives, maintaining emotional coherence, and enabling social cognition through inter-agent memory exchange.</p>
-  <a href="https://www.techrxiv.org/doi/SEU-DOI-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Access%20Paper%20(Coming soon)-TechRxiv-blue?style=for-the-badge&logo=bookstack" alt="Read on TechRxiv">
+  <a href="https://doi.org/10.36227/techrxiv.174953052.27000512/v1" target="_blank">
+    <img src="https://img.shields.io/badge/Access%20Paper-TechRxiv-blue?style=for-the-badge&logo=bookstack" alt="Read on TechRxiv">
   </a>
 </div>
 
