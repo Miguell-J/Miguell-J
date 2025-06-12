@@ -1,7 +1,6 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="1000">
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Miguell-J&data=followers,repositories,stars,commits)](https://github.com/Miguell-J/github-widgetbox)
 
 ## Hey, I’m Miguel Julio!
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Miguell-J&data=followers,repositories,stars,commits)](https://github.com/Miguell-J/github-widgetbox)
 
 I’m a Computer Science student passionate about Artificial Intelligence, Quantum Computing, Theoretical Physics, and Ethical Hacking. My goal is to become a renowned scientist and researcher, pushing the boundaries of technology and science. I also have a strong interest in Competitive Programming, constantly improving my problem-solving skills. Besides that, I enjoy playing guitar, bass, and violin, writing articles on AI, mathematics, and robotics, and exploring the worlds of Agatha Christie and Stephen King. I’m also a rock music lover, a sports enthusiast, and a big fan of suspense films.
 
