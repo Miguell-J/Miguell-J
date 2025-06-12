@@ -60,5 +60,3 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Miguell-J}/count.svg" /></p> 
 <br>
 </div>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="1000"/>
