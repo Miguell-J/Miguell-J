@@ -16,13 +16,6 @@ I’m a Computer Science student passionate about Artificial Intelligence, Quant
 
 ---
 
-## ⌨️ My Crates
-
-![Crates.io](https://img.shields.io/crates/v/portsniper)
-![Downloads](https://img.shields.io/crates/d/portsniper)
-
----
-
 ## 📖 My articles in Medium:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0" alt="Recent Article 0">
