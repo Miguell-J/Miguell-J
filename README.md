@@ -3,7 +3,7 @@
 ---
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=arch,rust,bash,blender,c,discord,cpp,docker,go,github,gmail,kali,linkedin,linux,mysql,neovim,opencv,py,pytorch,sklearn,tensorflow,vim,visualstudio,vscode,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,rust,bash,blender,c,discord,cpp,docker,go,github,gmail,kali,linkedin,devto,linux,mysql,neovim,opencv,py,pytorch,sklearn,tensorflow,vim,visualstudio,vscode,&perline=10)](https://skillicons.dev)
 
 ---
 
