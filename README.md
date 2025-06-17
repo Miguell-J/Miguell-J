@@ -7,6 +7,11 @@
 
 ---
 
+## Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguell-j&hide_progress=true)
+
+---
+
 ## Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@julioaraujo.guel/0" alt="Recent Article 0">
 
